@@ -1,0 +1,8 @@
+D:\Learning\C#\Design Principles\single-responsibility-principle\AfterSRP\obj\Debug\AfterSRP.csproj.AssemblyReference.cache
+D:\Learning\C#\Design Principles\single-responsibility-principle\AfterSRP\obj\Debug\AfterSRP.csproj.SuggestedBindingRedirects.cache
+D:\Learning\C#\Design Principles\single-responsibility-principle\AfterSRP\obj\Debug\AfterSRP.csproj.CoreCompileInputs.cache
+D:\Learning\C#\Design Principles\single-responsibility-principle\AfterSRP\bin\Debug\AfterSRP.exe.config
+D:\Learning\C#\Design Principles\single-responsibility-principle\AfterSRP\bin\Debug\AfterSRP.exe
+D:\Learning\C#\Design Principles\single-responsibility-principle\AfterSRP\bin\Debug\AfterSRP.pdb
+D:\Learning\C#\Design Principles\single-responsibility-principle\AfterSRP\obj\Debug\AfterSRP.exe
+D:\Learning\C#\Design Principles\single-responsibility-principle\AfterSRP\obj\Debug\AfterSRP.pdb

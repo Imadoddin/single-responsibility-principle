@@ -1,0 +1,8 @@
+D:\Learning\C#\Design Principles\single-responsibility-principle\BeforeSRP\bin\Debug\BeforeSRP.exe.config
+D:\Learning\C#\Design Principles\single-responsibility-principle\BeforeSRP\bin\Debug\BeforeSRP.exe
+D:\Learning\C#\Design Principles\single-responsibility-principle\BeforeSRP\bin\Debug\BeforeSRP.pdb
+D:\Learning\C#\Design Principles\single-responsibility-principle\BeforeSRP\obj\Debug\BeforeSRP.csproj.AssemblyReference.cache
+D:\Learning\C#\Design Principles\single-responsibility-principle\BeforeSRP\obj\Debug\BeforeSRP.csproj.SuggestedBindingRedirects.cache
+D:\Learning\C#\Design Principles\single-responsibility-principle\BeforeSRP\obj\Debug\BeforeSRP.csproj.CoreCompileInputs.cache
+D:\Learning\C#\Design Principles\single-responsibility-principle\BeforeSRP\obj\Debug\BeforeSRP.exe
+D:\Learning\C#\Design Principles\single-responsibility-principle\BeforeSRP\obj\Debug\BeforeSRP.pdb
